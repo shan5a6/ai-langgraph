@@ -1,0 +1,16 @@
+langchain==1.0.5
+langgraph==1.0.3
+langchain-openai==1.0.2
+langchain-ollama==1.0.0
+langchain-chroma==1.0.0
+langchain-community==0.4.1
+pillow
+ipython
+psycopg
+langgraph-checkpoint-postgres==3.0.1
+chainlit
+fastapi
+uvicorn
+beautifulsoup4
+util
+langchain_groq
