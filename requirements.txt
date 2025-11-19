@@ -8,9 +8,12 @@ pillow
 ipython
 psycopg
 langgraph-checkpoint-postgres==3.0.1
-chainlit
-fastapi
+chainlit==2.9.0
+fastapi==0.121.1
 uvicorn
 beautifulsoup4
 util
-langchain_groq
+langchain-groq==1.0.0
+sentence-transformers==5.1.2
+langchain-huggingface==1.0.1
+langchain-qdrant==1.1.0
