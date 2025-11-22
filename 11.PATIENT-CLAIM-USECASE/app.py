@@ -4,6 +4,10 @@ from langgraph.types import Command
 from dotenv import load_dotenv
 import os
 
+os.environ["LANGSMITH_TRACING"] = "true"
+os.environ["LANGSMITH_API_KEY"] = "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"
+os.environ["LANGSMITH_PROJECT"] = "default"
+
 # Load environment variables for GROQ_API_KEY
 load_dotenv()
 
